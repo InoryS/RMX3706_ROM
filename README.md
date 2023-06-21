@@ -4,6 +4,7 @@
 - Realme GT NEO5 150W CN
 - 真我 GT Neo5 150W
 - https://www.realme.com/realme-gt-neo-5
+
 <br>
 <br>
 
@@ -16,14 +17,13 @@ https://github.com/R0rt1z2/realme-ota
 #### Query command
 
 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 10010111`
-<br>
-<br>
 
 #### For more info
 
 - https://forum.xda-developers.com/t/global-eu-collection-of-firmware-files.4478153
 - https://www.facebook.com/groups/1497997480377295/permalink/2372650139578687
 - https://www.facebook.com/groups/1497997480377295/permalink/2439168646260169
+
 <br>
 <br>
 
@@ -42,6 +42,7 @@ oplus_update_engine_verify_disable=0
 oplus_separate_soft=22624
 ```
 RMX3706_11.A.36_0360_202305152136 == RMX3706_13.1.0.106(CN01)
+
 <br>
 <br>
 
@@ -59,6 +60,7 @@ https://github.com/ssut/payload-dumper-go
 `.\payload-dumper-go.exe 514f4cc67a1941a3a823aa90a641d177.zip`
 
 After completion you can find various images in `extracted_date_time`
+
 <br>
 <br>
 
@@ -93,7 +95,10 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-334eb367a908bdd5f963
 
 
 
-
+<br>
+<br>
+<br>
+<br>
 
 
 #真我 GT Neo5 固件 
