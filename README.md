@@ -42,23 +42,25 @@ oplus_update_engine_verify_disable=0
 oplus_separate_soft=22624
 ```
 RMX3706_11.A.36_0360_202305152136 == RMX3706_13.1.0.106(CN01)
-
+<br>
+<br>
 
 # Extract images from OTA zip files
-Download and unzip
+#### Download and unzip
 
 https://github.com/ssut/payload-dumper-go
 
-Command
+#### Command
 
 `.\payload-dumper-go.exe path_to_your_zip`
 
-Example
+#### Example
 
 `.\payload-dumper-go.exe 514f4cc67a1941a3a823aa90a641d177.zip`
 
 After completion you can find various images in `extracted_date_time`
-
+<br>
+<br>
 
 # OTA collection
 
