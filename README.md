@@ -1,0 +1,2 @@
+# RMX3706_ROM
+RMX3706      RealmeGT NEO5 150W    CN     ROM
