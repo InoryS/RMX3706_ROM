@@ -8,7 +8,7 @@
 <br>
 
 
-# Search by you rself
+# Search OTA download link by yourself
 #### Use this
 
 https://github.com/R0rt1z2/realme-ota
