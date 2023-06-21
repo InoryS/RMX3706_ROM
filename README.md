@@ -1,5 +1,5 @@
 # RMX3706_CN_ROM
-- Offical ROM  官方固件
+- Offical ROM  官方固件   OTA
 - RMX3706      
 - Realme GT NEO5 150W CN
 - 真我 GT Neo5 150W
@@ -23,12 +23,44 @@ https://github.com/R0rt1z2/realme-ota
 
 - https://forum.xda-developers.com/t/global-eu-collection-of-firmware-files.4478153
 - https://www.facebook.com/groups/1497997480377295/permalink/2372650139578687
+- https://www.facebook.com/groups/1497997480377295/permalink/2439168646260169
 <br>
 <br>
 
+# Check version
+Open the zip you will see `payload_properties.txt`
+```
+FILE_HASH=LBZPxL4vb3PBtUzqbkPrxKNh+rq9InyxkIKFB24vO4Y=
+FILE_SIZE=7378166928
+METADATA_HASH=MII7YsvkoNlWI7qALSvoNSRIGWL9zJW8i79kPS9Yq8o=
+METADATA_SIZE=273645
+ota_target_version=RMX3706_11.A.36_0360_202305152136
+security_patch_vendor=2023-05-05
+oplus_rom_version=V13.1.0
+security_patch=2023-05-05
+oplus_update_engine_verify_disable=0
+oplus_separate_soft=22624
+```
+RMX3706_11.A.36_0360_202305152136 == RMX3706_13.1.0.106(CN01)
 
-# ROM collection
 
+# Extract images from OTA zip files
+Download and unzip
+
+https://github.com/ssut/payload-dumper-go
+
+Command
+
+`.\payload-dumper-go.exe path_to_your_zip`
+
+Example
+
+`.\payload-dumper-go.exe 514f4cc67a1941a3a823aa90a641d177.zip`
+
+After completion you can find various images in `extracted_date_time`
+
+
+# OTA collection
 
 #### RMX3706_13.1.0.106(CN01)
 GT NEO5 RMX3706 China Full OTA A.36
