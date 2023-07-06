@@ -57,15 +57,15 @@ https://github.com/ssut/payload-dumper-go
 
 #### Example
 
+After completion you can find various images in `extracted_date_time`
+
+##### Show list of partitions in payload.bin
+
+ `.\payload-dumper-go.exe -l .\b979db22cbf74dce83e7e0441bb1a29d.zip`
+
 ##### Extra all
 
 `.\payload-dumper-go.exe .\514f4cc67a1941a3a823aa90a641d177.zip`
-
-After completion you can find various images in `extracted_date_time`
-
-#### Show list of partitions in payload.bin
-
- `.\payload-dumper-go.exe -l .\b979db22cbf74dce83e7e0441bb1a29d.zip`
 
 ##### Extra bootloader only
 
