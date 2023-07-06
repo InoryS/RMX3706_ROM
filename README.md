@@ -57,9 +57,15 @@ https://github.com/ssut/payload-dumper-go
 
 #### Example
 
+##### Extra all
+
 `.\payload-dumper-go.exe 514f4cc67a1941a3a823aa90a641d177.zip`
 
 After completion you can find various images in `extracted_date_time`
+
+##### Extra bootloader only
+
+`.\payload-dumper-go.exe -p boot -o 514f4cc67a1941a3a823aa90a641d177.zip`
 
 <br>
 <br>
@@ -68,6 +74,9 @@ After completion you can find various images in `extracted_date_time`
 
 #### RMX3706_13.1.0.112(CN01)
 GT NEO5 RMX3706 China Full OTA A.42
+
+"md5": "ceb08951636245973ae24f8603ee881f"
+
 
 https://gauss-compotacostauto-cn.allawnfs.com/remove-c84e764c61c9993bbd0af7bdd0cb74cd/component-ota/23/06/27/b979db22cbf74dce83e7e0441bb1a29d.zip
 
