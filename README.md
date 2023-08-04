@@ -75,6 +75,20 @@ After completion you can find various images in `extracted_date_time`
 <br>
 <br>
 
+
+# Flash bootloader
+- Unlock bootloder lock  https://www.realmebbs.com/post-details/1626138770372190208
+- Turn off the phone, press `volume down` + `power button` get in to fastboot
+- Download https://developer.android.com/tools/releases/platform-tools
+- Unzip and open powershell in platform-tools dir
+- Optional, test if the bootloder works  `.\fastboot.exe boot .\boot.img`
+- Flash bootloder`.\fastboot.exe flash boot .\boot.img`
+- Reboot device `.\fastboot.exe reboot`
+
+<br>
+<br>
+
+
 # OTA collection
 
 #### RMX3706_13.1.0.113(CN01)
