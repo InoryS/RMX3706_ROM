@@ -91,6 +91,18 @@ After completion you can find various images in `extracted_date_time`
 
 # OTA collection
 
+
+#### RMX3706_13.1.0.114(CN01)
+GT NEO5 RMX3706 China Full OTA A.44
+
+"md5": "de5b0a181839ba59d328c0d86e30430d",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d41a7ac050c5dc31e449c35a63ad6de5/component-ota/23/08/04/5183494c27674cebac324328b389f369.zip
+
+<br>
+
+
+
 #### RMX3706_13.1.0.113(CN01)
 GT NEO5 RMX3706 China Full OTA A.43
 
@@ -105,8 +117,7 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dff6782d2a8b22eae1c9
 #### RMX3706_13.1.0.112(CN01)
 GT NEO5 RMX3706 China Full OTA A.42
 
-"md5": "ceb08951636245973ae24f8603ee881f"
-
+"md5": "ceb08951636245973ae24f8603ee881f",
 
 https://gauss-compotacostauto-cn.allawnfs.com/remove-c84e764c61c9993bbd0af7bdd0cb74cd/component-ota/23/06/27/b979db22cbf74dce83e7e0441bb1a29d.zip
 
