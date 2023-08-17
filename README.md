@@ -89,6 +89,10 @@ After completion you can find various images in `extracted_date_time`
 Just install magisk app, select `patch a file`, select the `boot.img` you extracted from the OTA ROM package. Of course, it must match your system version.
 and flash patched bootloader `magisk_patched_boot.img`.
 
+##### Root failed? 
+
+Flash the the original `boot.img`.
+
 <br>
 <br>
 
