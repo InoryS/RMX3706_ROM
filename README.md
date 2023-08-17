@@ -77,13 +77,17 @@ After completion you can find various images in `extracted_date_time`
 
 
 # Flash bootloader
-- Unlock bootloder lock  https://www.realmebbs.com/post-details/1626138770372190208
+- Unlock bootloder lock, by using this offical app: https://www.realmebbs.com/post-details/1626138770372190208
 - Turn off the phone, press `volume down` + `power button` get in to fastboot
 - Download https://developer.android.com/tools/releases/platform-tools
 - Unzip and open powershell in platform-tools dir
 - Optional, test if the bootloder works  `.\fastboot.exe boot .\boot.img`
 - Flash bootloder`.\fastboot.exe flash boot .\boot.img`
 - Reboot device `.\fastboot.exe reboot`
+
+#### How to Root
+Just install magisk app, select `patch a file`, select the `boot.img` you extracted from the OTA ROM package. Of course, it must match your system version.
+and flash patched bootloader `magisk_patched_boot.img`.
 
 <br>
 <br>
