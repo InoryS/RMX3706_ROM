@@ -79,6 +79,7 @@ After completion you can find various images in `extracted_date_time`
 # Flash bootloader
 - Unlock bootloder lock, by using this offical app: https://www.realmebbs.com/post-details/1626138770372190208
 - Turn off the phone, press `volume down` + `power button` get in to fastboot
+- Install Google USB Driver https://developer.android.com/studio/run/win-usb (Chinese Guide: https://zhuanlan.zhihu.com/p/366904302)
 - Download https://developer.android.com/tools/releases/platform-tools
 - Unzip and open powershell in platform-tools dir
 - Optional, test if the bootloder works  `.\fastboot.exe boot .\boot.img`
