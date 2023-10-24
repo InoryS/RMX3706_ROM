@@ -102,6 +102,21 @@ Flash the the original `boot.img`.
 # OTA collection
 
 
+
+#### RMX3706_13.1.0.117(CN01)
+GT NEO5 RMX3706 China Full OTA A.47
+
+"md5": "d53fa3998d1db06b4031f93d5654fe0e",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8de444c66a7a78f85dda9cfbc4422464/component-ota/23/09/26/14d91e8fd66749588e8cdde57def0001.zip
+
+<br>
+
+
+
+
+
+
 #### RMX3706_13.1.0.116(CN01)
 GT NEO5 RMX3706 China Full OTA A.46
 
