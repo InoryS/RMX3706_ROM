@@ -102,8 +102,20 @@ Flash the the original `boot.img`.
 # OTA collection
 
 
+#### RMX3706_14.0.0.100(CN01)
+
+Realme UI 5， Andriod 14
+
+https://gauss-compotacostauto-cn.allawnfs.com/remove-cf397b85b5b35acaaf3a4bc34bd5dbe1/component-ota/23/12/07/9a762b4845d4443f9dd124afeefb6ebf.zip
+
+<br>
+
+
+
 #### RMX3706_13.1.0.118(SP01CN01)
 GT NEO5 RMX3706 China Full OTA A.48
+
+Realme UI 4， Andriod 13
 
 "md5": "e027328b9c1f81382ec4d48b9e802914",
 
@@ -116,6 +128,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-756c6b7d0b3eafb85e47
 
 #### RMX3706_13.1.0.117(CN01)
 GT NEO5 RMX3706 China Full OTA A.47
+
+Realme UI 4， Andriod 13
 
 "md5": "d53fa3998d1db06b4031f93d5654fe0e",
 
@@ -131,6 +145,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-8de444c66a7a78f85dda
 #### RMX3706_13.1.0.116(CN01)
 GT NEO5 RMX3706 China Full OTA A.46
 
+Realme UI 4， Andriod 13
+
 "md5": "aa4d5bf825b9de94ff379362e854da4b"
 
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-71ae671b3f99b7f84cfa0c7656c68830/component-ota/23/09/20/b5708664e4b94f82bef7737037a09a25.zip
@@ -144,6 +160,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-71ae671b3f99b7f84cfa
 #### RMX3706_13.1.0.115(CN01)
 GT NEO5 RMX3706 China Full OTA A.45
 
+Realme UI 4， Andriod 13
+
 "md5": "b904eee2d3ecb9e8b735f692c064040c"
 
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-df6a0b9b22ae06b9f45091b92ea8a45c/component-ota/23/08/17/1067d355b9874ed1b55b24dd59da83a3.zip
@@ -154,6 +172,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-df6a0b9b22ae06b9f450
 
 #### RMX3706_13.1.0.114(CN01)
 GT NEO5 RMX3706 China Full OTA A.44
+
+Realme UI 4， Andriod 13
 
 "md5": "de5b0a181839ba59d328c0d86e30430d"
 
@@ -166,6 +186,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d41a7ac050c5dc31e449
 #### RMX3706_13.1.0.113(CN01)
 GT NEO5 RMX3706 China Full OTA A.43
 
+Realme UI 4， Andriod 13
+
 "md5": "f539faab627248d8715253a9387dce97"
 
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dff6782d2a8b22eae1c974ada4ec1f79/component-ota/23/07/11/b0969f1b1f2b44edb28cf31f8fd310e7.zip
@@ -175,6 +197,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-dff6782d2a8b22eae1c9
 
 #### RMX3706_13.1.0.112(CN01)
 GT NEO5 RMX3706 China Full OTA A.42
+
+Realme UI 4， Andriod 13
 
 "md5": "ceb08951636245973ae24f8603ee881f"
 
@@ -186,6 +210,8 @@ https://gauss-compotacostauto-cn.allawnfs.com/remove-c84e764c61c9993bbd0af7bdd0c
 #### RMX3706_13.1.0.106(CN01)
 GT NEO5 RMX3706 China Full OTA A.36
 
+Realme UI 4， Andriod 13
+
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ddc446895f1f09b7a93f160bf8e0245/component-ota/23/05/18/514f4cc67a1941a3a823aa90a641d177.zip?fbclid=IwAR0Xm_YsHRshV8HUXAk4PMYSgd9PJIY3VsXaYvlg8f2mdmBFpEsr8usTriM
 
 <br>
@@ -194,6 +220,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ddc446895f1f09b7a93
 #### RMX3706_13.1.0.105(CN01)
 GT NEO5 RMX3706 China Full OTA A.35
 
+Realme UI 4， Andriod 13
+
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9f9a6359d687f81eacc10d2b17b77724/component-ota/23/05/05/070dca35a73f4183a4bb4f584f8e6027.zip?fbclid=IwAR074F5UN6C2O6pZahFD0LGAjvfosfwAjv50IcYOSEKD2lXkmP-ZDQtr6KU
 
 <br>
@@ -201,6 +229,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9f9a6359d687f81eacc1
 
 #### RMX3706_13.1.0.104(CN01)
 GT NEO5 RMX3706 China Full OTA A.34
+
+Realme UI 4， Andriod 13
 
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69c2bb320aaeda56af51dfbf1f97fcaa/component-ota/23/04/27/8388a5bb4ae74c43b6752186304bc77e.zip?fbclid=IwAR03maoyc1URsqJCEO6SI82yFK-CMigEmvaTtTesXQbB7LYQMOFEohLhw_4
 
