@@ -21,6 +21,21 @@ Realme UI 4 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 0`
 
 Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
 
+```
+positional arguments:
+  product_model         Product Model (ro.product.name).
+  ota_version           OTA Version (ro.build.version.ota).
+  {1,2,3,4,5}           RealmeUI Version (ro.build.version.realmeui).
+  nv_identifier         NV (carrier) identifier (ro.build.oplus_nv_id) (if
+                        none, provide 0 or omit).
+```
+
+Execute `getprop <prop>` in the mobile terminal to get the corresponding information
+
+Such as `getprop ro.build.version.ota`
+
+
+
 #### For more info
 
 - https://forum.xda-developers.com/t/global-eu-collection-of-firmware-files.4478153
