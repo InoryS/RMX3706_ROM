@@ -104,6 +104,7 @@ Flash the the original `boot.img`.
 
 
 #### RMX3706_14.0.0.100(CN01)
+GT NEO5 RMX3706 China Full OTA C.22
 
 Realme UI 5， Andriod 14
 
