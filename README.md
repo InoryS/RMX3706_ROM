@@ -17,13 +17,14 @@ https://github.com/R0rt1z2/realme-ota
 
 #### Query command
 
-`realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 10010111`
+Realme UI 4 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 0`
+
+Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
 
 #### For more info
 
 - https://forum.xda-developers.com/t/global-eu-collection-of-firmware-files.4478153
-- https://www.facebook.com/groups/1497997480377295/permalink/2372650139578687
-- https://www.facebook.com/groups/1497997480377295/permalink/2439168646260169
+- https://www.facebook.com/groups/1497997480377295/permalink/2616632928513739
 
 <br>
 <br>
@@ -106,7 +107,9 @@ Flash the the original `boot.img`.
 
 Realme UI 5， Andriod 14
 
-https://gauss-compotacostauto-cn.allawnfs.com/remove-cf397b85b5b35acaaf3a4bc34bd5dbe1/component-ota/23/12/07/9a762b4845d4443f9dd124afeefb6ebf.zip
+"md5": "0f86c33a8bc465aaa6187de4abd6ea22",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-cf397b85b5b35acaaf3a4bc34bd5dbe1/component-ota/23/12/07/9a762b4845d4443f9dd124afeefb6ebf.zip
 
 <br>
 
