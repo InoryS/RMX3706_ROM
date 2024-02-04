@@ -4,6 +4,7 @@
 - Realme GT NEO5 150W CN
 - 真我 GT Neo5 150W
 - GT Neo5 150W
+- China mainland version
 - https://www.realme.com/realme-gt-neo-5
 
 <br>
