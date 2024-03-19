@@ -124,6 +124,8 @@ GT NEO5 RMX3706 China Full OTA C.30
 
 Realme UI 5， Andriod 14
 
+"md5": "0159c03b64534b4497f623b3f7a2c528",
+
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c71351fcac7229e4413d997f3a51ab54/component-ota/24/03/12/19aa7fda942c43debf77594fd4c93164.zip
 
 <br>
@@ -137,6 +139,8 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c71351fcac7229e4413d
 GT NEO5 RMX3706 China Full OTA C.26
 
 Realme UI 5， Andriod 14
+
+"md5": "2A7FE33351D64A2E98673C6308818D89",
 
 https://gauss-componentotacostmanual-cn.allawnfs.com/remove-74653b15008d4a6e9ab25d0b9f2316b8/component-ota/24/01/31/d36129819eb14b63bf7a98ce8c479a74.zip
 
