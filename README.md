@@ -267,7 +267,7 @@ Realme UI 4， Andriod 13
 
 "md5": "ceb08951636245973ae24f8603ee881f"
 
-https://gauss-compotacostauto-cn.allawnfs.com/remove-c84e764c61c9993bbd0af7bdd0cb74cd/component-ota/23/06/27/b979db22cbf74dce83e7e0441bb1a29d.zip
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-c84e764c61c9993bbd0af7bdd0cb74cd/component-ota/23/06/27/b979db22cbf74dce83e7e0441bb1a29d.zip
 
 <br>
 
