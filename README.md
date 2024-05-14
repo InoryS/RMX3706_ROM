@@ -126,7 +126,7 @@ Realme UI 5， Andriod 14
 
 "md5": "b9a0c7ca24161755437b374f83aec246",
 
-https://gauss-compotacostauto-cn.allawnfs.com/remove-90457138d710a585b3bc7ec4b8e6a30c/component-ota/24/04/11/125a48e052f047f6b651db2223a67874.zip
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-90457138d710a585b3bc7ec4b8e6a30c/component-ota/24/04/11/125a48e052f047f6b651db2223a67874.zip
 
 <br>
 
@@ -277,7 +277,7 @@ GT NEO5 RMX3706 China Full OTA A.36
 
 Realme UI 4， Andriod 13
 
-https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ddc446895f1f09b7a93f160bf8e0245/component-ota/23/05/18/514f4cc67a1941a3a823aa90a641d177.zip?fbclid=IwAR0Xm_YsHRshV8HUXAk4PMYSgd9PJIY3VsXaYvlg8f2mdmBFpEsr8usTriM
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7ddc446895f1f09b7a93f160bf8e0245/component-ota/23/05/18/514f4cc67a1941a3a823aa90a641d177.zip
 
 <br>
 
@@ -287,7 +287,7 @@ GT NEO5 RMX3706 China Full OTA A.35
 
 Realme UI 4， Andriod 13
 
-https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9f9a6359d687f81eacc10d2b17b77724/component-ota/23/05/05/070dca35a73f4183a4bb4f584f8e6027.zip?fbclid=IwAR074F5UN6C2O6pZahFD0LGAjvfosfwAjv50IcYOSEKD2lXkmP-ZDQtr6KU
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-9f9a6359d687f81eacc10d2b17b77724/component-ota/23/05/05/070dca35a73f4183a4bb4f584f8e6027.zip
 
 <br>
 
@@ -297,7 +297,7 @@ GT NEO5 RMX3706 China Full OTA A.34
 
 Realme UI 4， Andriod 13
 
-https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69c2bb320aaeda56af51dfbf1f97fcaa/component-ota/23/04/27/8388a5bb4ae74c43b6752186304bc77e.zip?fbclid=IwAR03maoyc1URsqJCEO6SI82yFK-CMigEmvaTtTesXQbB7LYQMOFEohLhw_4
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69c2bb320aaeda56af51dfbf1f97fcaa/component-ota/23/04/27/8388a5bb4ae74c43b6752186304bc77e.zip
 
 <br>
 
@@ -305,7 +305,7 @@ https://gauss-componentotacostmanual-cn.allawnfs.com/remove-69c2bb320aaeda56af51
 #### UNKONW
 GT NEO5 RMX3706 China Full OTA A.25
 
-https://gauss-compotacostauto-cn.allawnfs.com/remove-bf85f6c43fbd3773dba1fbe18fde02d4/component-ota/23/03/24/77c363c10d6e4ebb81cbbc4484235b29.zip?fbclid=IwAR1uQh5N2jGmiLW-ThnNSr4ZxLq1Q4XK_GVkIoKYVPcRbfmR44UhKY9A84A
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-bf85f6c43fbd3773dba1fbe18fde02d4/component-ota/23/03/24/77c363c10d6e4ebb81cbbc4484235b29.zip
 
 <br>
 
@@ -313,7 +313,7 @@ https://gauss-compotacostauto-cn.allawnfs.com/remove-bf85f6c43fbd3773dba1fbe18fd
 #### UNKONW
 GT NEO5 RMX3706 China Full OTA A.24
 
-https://gauss-componentotacostmanual-cn.allawnfs.com/remove-334eb367a908bdd5f9638c86e0f0f992/component-ota/23/03/17/c6fccd130bd548a98bb4b8e032400616.zip?fbclid=IwAR10mpSsFoC4Y3ewxujhOml1ek0mOqnnKNOtwrLA4dtD5S4a-zUYAD4dERo
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-334eb367a908bdd5f9638c86e0f0f992/component-ota/23/03/17/c6fccd130bd548a98bb4b8e032400616.zip
 
 <br>
 
