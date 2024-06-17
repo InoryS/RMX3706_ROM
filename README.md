@@ -118,6 +118,19 @@ Flash the the original `boot.img`.
 
 # OTA collection
 
+#### RMX3706_14.0.0.800(CN01)
+GT NEO5 RMX3706 China Full OTA C.34
+
+Realme UI 5， Andriod 14
+
+"md5": "10f58615848c548e3e7ee4ee460f9f39",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-fe87552a1a9f74397f7a7056704c6801/component-ota/24/06/06/b61491a0f9f44387958858a213f8f9ab.zip
+
+<br>
+
+
+
 
 #### RMX3706_14.0.0.601(CN01)
 GT NEO5 RMX3706 China Full OTA C.32
