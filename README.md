@@ -118,12 +118,29 @@ Flash the the original `boot.img`.
 
 # OTA collection
 
+
+#### RMX3706_14.0.0.900(CN01)
+GT NEO5 RMX3706 China Full OTA C.38
+
+Realme UI 5， Andriod 14
+
+"md5": "fb895096e5cefa5687b2bd5a75d1425b",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-7975476401d481149ae66a6c5ee1e2a0/component-ota/24/08/16/a549203fc660495a92537f06555fc982.zip
+
+<br>
+
+
+
+
+
+
 #### RMX3706_14.0.0.801(CN01)
 GT NEO5 RMX3706 China Full OTA C.35
 
 This version adds the device name censor.
 
-At least we appreciate that it dares to write this, other manufacturers don't even dare to write it in the update log
+At least we appreciate that it dares to write this, other manufacturers don't even dare to write it in the update log...
 
 Realme UI 5， Andriod 14
 
