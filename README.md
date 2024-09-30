@@ -118,6 +118,10 @@ Flash the the original `boot.img`.
 
 # OTA collection
 
+If you got 403, try to replace url to `https://gauss-compotacostauto-cn.allawnfs.com`
+<br>
+<br>
+
 
 #### RMX3706_14.0.0.901(CN01)
 GT NEO5 RMX3706 China Full OTA C.39
