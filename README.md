@@ -127,7 +127,7 @@ Try replacing the beginning of the url with `https://gauss-compotacostauto-cn.al
 <br>
 
 
-#### RMX3706_14.0.0.901(CN01)
+#### RMX3706_14.0.0.903(CN01)
 GT NEO5 RMX3706 China Full OTA C.41
 
 Realme UI 5， Andriod 14
