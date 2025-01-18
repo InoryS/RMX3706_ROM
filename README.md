@@ -121,7 +121,9 @@ Flash the the original `boot.img`.
 
 **If you got 403**
 
-Try replacing the beginning of the url with `https://gauss-compotacostauto-cn.allawnfs.com` or `https://gauss-otacostmanual-cn.allawnfs.com`
+  - Try replacing the beginning of the url with `https://gauss-compotacostauto-cn.allawnfs.com` or `https://gauss-otacostmanual-cn.allawnfs.com`
+  - Try use `wget` to download
+
 <br>
 <br>
 <br>
