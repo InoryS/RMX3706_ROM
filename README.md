@@ -22,11 +22,12 @@ Realme UI 4 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 0`
 
 Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
 
+Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.d.00_0000_000000000000 6 0`
 ```
 positional arguments:
   product_model         Product Model (ro.product.name).
   ota_version           OTA Version (ro.build.version.ota).
-  {1,2,3,4,5}           RealmeUI Version (ro.build.version.realmeui).
+  {1,2,3,4,5,6}           RealmeUI Version (ro.build.version.realmeui).
   nv_identifier         NV (carrier) identifier (ro.build.oplus_nv_id) (if
                         none, provide 0 or omit).
 ```
@@ -125,6 +126,19 @@ Try replacing the beginning of the url with `https://gauss-compotacostauto-cn.al
 <br>
 <br>
 <br>
+
+
+#### RMX3706_15.0.0.320(CN01)
+GT NEO5 RMX3706 China Full OTA F.09
+
+**Realme UI 6， Andriod 15**
+
+"md5": "46cf54308dc13ef82f10c04c1df62bde",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-d49b6040676ee68834d326cb2510a5db/component-ota/24/12/16/4c9b6ca7b32a4db896c0b4586368b540.zip
+
+<br>
+
 
 
 #### RMX3706_14.0.0.903(CN01)
