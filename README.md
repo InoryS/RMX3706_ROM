@@ -123,6 +123,7 @@ Flash the the original `boot.img`.
 
   - Try replacing the beginning of the url with `https://gauss-compotacostauto-cn.allawnfs.com` or `https://gauss-otacostmanual-cn.allawnfs.com`
   - Try use `wget` to download
+  - Try download on your phone
 
 <br>
 <br>
