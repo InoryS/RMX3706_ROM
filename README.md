@@ -22,8 +22,6 @@ Realme UI 4 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 0`
 
 Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
 
-Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.D.00_0000_000000000000 6 0`
-
 Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.F.00_0000_000000000000 6 0`
 
 ```
@@ -134,9 +132,9 @@ Flash the the original `boot.img`.
 
 
 #### RMX3706_15.0.0.430(CN01)
-GT NEO5 RMX3706 China Full OTA F.09
+GT NEO5 RMX3706 China Full OTA F.16
 
-**Realme UI 6， Andriod 15**
+Realme UI 6， Andriod 15
 
 "md5": "a44d2187f0beb2411e95c7df76e81bb8",
 
