@@ -22,14 +22,16 @@ Realme UI 4 `realme-ota -r 1 RMX3706 RMX3706_11.A.00_0000_000000000000 4 0`
 
 Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
 
-Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.d.00_0000_000000000000 6 0`
+Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.D.00_0000_000000000000 6 0`
+
+Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.F.00_0000_000000000000 6 0`
+
 ```
 positional arguments:
   product_model         Product Model (ro.product.name).
   ota_version           OTA Version (ro.build.version.ota).
-  {1,2,3,4,5,6}           RealmeUI Version (ro.build.version.realmeui).
-  nv_identifier         NV (carrier) identifier (ro.build.oplus_nv_id) (if
-                        none, provide 0 or omit).
+  {1,2,3,4,5,6}         RealmeUI Version (ro.build.version.realmeui).
+  nv_identifier         NV (carrier) identifier (ro.build.oplus_nv_id) (ifnone, provide 0 or omit).
 ```
 
 Execute `getprop <prop>` in the mobile terminal to get the corresponding information
@@ -129,6 +131,19 @@ Flash the the original `boot.img`.
 <br>
 <br>
 <br>
+
+
+#### RMX3706_15.0.0.430(CN01)
+GT NEO5 RMX3706 China Full OTA F.09
+
+**Realme UI 6， Andriod 15**
+
+"md5": "a44d2187f0beb2411e95c7df76e81bb8",
+
+https://gauss-componentotacostmanual-cn.allawnfs.com/remove-f2d3ec4ab9070574a866e13738b07df0/component-ota/25/01/22/495a04ff65084aa7bde013ca02f973d8.zip
+
+<br>
+
 
 
 #### RMX3706_15.0.0.320(CN01)
