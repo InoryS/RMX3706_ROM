@@ -130,6 +130,14 @@ Flash the the original `boot.img`.
 <br>
 <br>
 
+#### V120P02
+V120P02 Not Full OTA it still 15.0.0.1400 But it's (CN01V120P02)
+
+you will not lose your root
+
+<br>
+
+
 #### RMX3706_15.0.0.1400(CN01)
 GT NEO5 RMX3706 China Full OTA F.26
 
