@@ -24,6 +24,7 @@ Realme UI 5 `realme-ota -r 1 RMX3706 RMX3706_11.C.00_0000_000000000000 5 0`
 
 Realme UI 6 `realme-ota -r 1 RMX3706 RMX3706_11.F.00_0000_000000000000 6 0`
 
+Realme UI 7 `realme-ota -r 1 RMX3706 RMX3706_11.H.00_0000_000000000000 7 0`
 ```
 positional arguments:
   product_model         Product Model (ro.product.name).
@@ -129,6 +130,20 @@ Flash the the original `boot.img`.
 <br>
 <br>
 <br>
+
+
+#### RMX3706_16.0.1.304(CN01)
+GT NEO5 RMX3706 China Full OTA H.36
+
+Realme UI 7， Andriod 16
+
+"md5": "6f205841462c2ed838ff20689777a7f3",
+
+https://gauss-compotacostauto-cn.allawnfs.com/remove-e1ae26f20709c35d98ef3334bb1eadcb/component-ota/25/11/26/49a99cc6cf1f4f078af89e418b7e782b.zip
+
+<br>
+
+
 
 #### V120P02
 V120P02 Not Full OTA it still 15.0.0.1400 But it's (CN01V120P02)
