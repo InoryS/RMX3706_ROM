@@ -139,6 +139,8 @@ Realme UI 7， Andriod 16
 
 "md5": "6f205841462c2ed838ff20689777a7f3",
 
+There seems to be some kind of download check, but I haven't found a way to got it yet.
+
 https://component-ota-cn.allawntech.com/downloadCheck?c=a2c8bc6d3a0f78c1c9c84a6bf9276fa7&p=a6c78fdd3754888b3fcedbae14ca37619726f8b7183554a18dec00bf95200397e9eb6a89b6796371bc68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=6979bdc49e207b017baacfcd&taste=0&supportDLTaste=0&mode=1&s=538d323759ccd5b80fc088a7d7384e43
 
 <br>
