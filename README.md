@@ -131,6 +131,19 @@ Flash the the original `boot.img`.
 <br>
 <br>
 
+#### RMX3706_16.0.2.400(CN01)
+GT NEO5 RMX3706 China Full OTA H.38
+
+Realme UI 7， Andriod 16
+
+"md5": "5578e0206228f1967d46120b2f9943c1",
+
+There seems to be some kind of download check, but I haven't found a way to got it yet.
+
+https://component-ota-cn.allawntech.com/downloadCheck?c=1d773a54f4e3bda5c39aa7e93e982335&p=a6c78fdd3757888a3dceddaf469760669e73f4b41b6454a6d0bf5ab9952c55c6efed628fb1293827ef3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=69b7bb2d9e207b017bab0db3&taste=0&supportDLTaste=0&mode=1&s=ce69e35100a34082728bbba953899d9a
+
+<br>
+
 
 #### RMX3706_16.0.1.304(CN01)
 GT NEO5 RMX3706 China Full OTA H.36
