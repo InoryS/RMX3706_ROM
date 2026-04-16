@@ -131,6 +131,30 @@ Flash the the original `boot.img`.
 <br>
 <br>
 
+There seems to be some kind of download check, but I haven't found a way to got it yet.
+
+You can find other people's uploaded downloads here. Please remember to check the MD5 to ensure it hasn't been tampered with.
+
+[https://yun.daxiaamu.com/Realme_Roms/%E7%9C%9F%E6%88%91%20Realme%20GT%20Neo5%20150W%EF%BC%88RMX3706%EF%BC%89/](https://yun.daxiaamu.com/Realme_Roms/%E7%9C%9F%E6%88%91%20Realme%20GT%20Neo5%20150W%EF%BC%88RMX3706%EF%BC%89/)
+
+<br>
+<br>
+<br>
+<br>
+
+#### RMX3706_16.0.3.501(CN01)
+GT NEO5 RMX3706 China Full OTA H.440
+
+Realme UI 7， Andriod 16
+
+"md5": "3420c4bac02eab24a838f67d29fd6d83",
+
+There seems to be some kind of download check, but I haven't found a way to got it yet.
+
+https://component-ota-cn.allawntech.com/downloadCheck?c=84c6e383bb0d40b4f5d6e569b1a8b103&p=a6c78fdd375688883fced4ae43983563c674abb7496754a186b800e99f2c0790beb630dfe72a3822ba6ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=69dc9a92007ddc01813d9ced&taste=0&supportDLTaste=0&mode=1&s=58d26968208cff83b0dee27f39785829
+
+<br>
+
 #### RMX3706_16.0.2.400(CN01)
 GT NEO5 RMX3706 China Full OTA H.38
 
