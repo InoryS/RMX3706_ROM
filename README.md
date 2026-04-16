@@ -141,6 +141,8 @@ use
 
 The returned `location: ` is the download link.
 
+It can only be used for a short period of time; you will need to obtain a new one after it expires.
+
 example: 
 ```
 [root@linux tmp]# curl --head -H "userid: oplus-ota|" "https://component-ota-cn.allawntech.com/downloadCheck?c=84c6e383bb0d40b4f5d6e569b1a8b103&p=a6c78fdd375688883fced4ae43983563c674abb7496754a186b800e99f2c0790beb630dfe72a3822ba6ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=69dc9a92007ddc01813d9ced&taste=0&supportDLTaste=0&mode=1&s=58d26968208cff83b0dee27f39785829"
@@ -160,13 +162,11 @@ X-Gateway-Host: 218245a571c452294085cd13c65d521e3f49ef0cb03627023ff6a5beac0b0590
 <br>
 
 #### RMX3706_16.0.3.501(CN01)
-GT NEO5 RMX3706 China Full OTA H.440
+GT NEO5 RMX3706 China Full OTA H.40
 
 Realme UI 7， Andriod 16
 
 "md5": "3420c4bac02eab24a838f67d29fd6d83",
-
-There seems to be some kind of download check, but I haven't found a way to got it yet.
 
 https://component-ota-cn.allawntech.com/downloadCheck?c=84c6e383bb0d40b4f5d6e569b1a8b103&p=a6c78fdd375688883fced4ae43983563c674abb7496754a186b800e99f2c0790beb630dfe72a3822ba6ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=69dc9a92007ddc01813d9ced&taste=0&supportDLTaste=0&mode=1&s=58d26968208cff83b0dee27f39785829
 
@@ -179,8 +179,6 @@ Realme UI 7， Andriod 16
 
 "md5": "5578e0206228f1967d46120b2f9943c1",
 
-There seems to be some kind of download check, but I haven't found a way to got it yet.
-
 https://component-ota-cn.allawntech.com/downloadCheck?c=1d773a54f4e3bda5c39aa7e93e982335&p=a6c78fdd3757888a3dceddaf469760669e73f4b41b6454a6d0bf5ab9952c55c6efed628fb1293827ef3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=69b7bb2d9e207b017bab0db3&taste=0&supportDLTaste=0&mode=1&s=ce69e35100a34082728bbba953899d9a
 
 <br>
@@ -192,8 +190,6 @@ GT NEO5 RMX3706 China Full OTA H.36
 Realme UI 7， Andriod 16
 
 "md5": "6f205841462c2ed838ff20689777a7f3",
-
-There seems to be some kind of download check, but I haven't found a way to got it yet.
 
 https://component-ota-cn.allawntech.com/downloadCheck?c=a2c8bc6d3a0f78c1c9c84a6bf9276fa7&p=a6c78fdd3754888b3fcedbae14ca37619726f8b7183554a18dec00bf95200397e9eb6a89b6796371bc68d3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=6979bdc49e207b017baacfcd&taste=0&supportDLTaste=0&mode=1&s=538d323759ccd5b80fc088a7d7384e43
 
