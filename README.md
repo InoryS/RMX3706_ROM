@@ -161,6 +161,17 @@ X-Gateway-Host: 218245a571c452294085cd13c65d521e3f49ef0cb03627023ff6a5beac0b0590
 <br>
 <br>
 
+#### RMX3706_16.0.3.503(CN01)
+GT NEO5 RMX3706 China Full OTA H.42
+
+Realme UI 7， Andriod 16
+
+"md5": "c8b74eeb99f578e5319e5dbe8e6a0122",
+
+https://component-ota-cn.allawntech.com/downloadCheck?c=6decdc6381ee82fdf205f160790bb594&p=a6c78fdd3750888b3bcedbad14cd32649674fbe94a6054f0d4bb00eb967c04c0e3ea628ae17e3120ec3ad3282179&d=e181cd82745f88956e8098ec0182623bca30a2a51b7b03ead6e04ce9ca7400d5b4e921c5b4276d&g=e85d254ec8c5f58e7bf6e5729bd6b72f&id=6a1d20c0007ddc01813ddd01&taste=0&supportDLTaste=0&mode=1&tr=manual&s=254253b1a97fe9e73b849c3b0d9a843d
+
+<br>
+
 #### RMX3706_16.0.3.501(CN01)
 GT NEO5 RMX3706 China Full OTA H.40
 
