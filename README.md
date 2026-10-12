@@ -162,11 +162,6 @@ X-Gateway-Host: 218245a571c452294085cd13c65d521e3f49ef0cb03627023ff6a5beac0b0590
 <br>
 <br>
 
-#### RMX3706_16.0.5.1310(CN01)
-
-https://gauss-compota-c-cn.allawnfs.com/remove-032aaa640ff02e2115f33e884d4283e3/g-10eab6008d5642cf42abd2aa41f847cb/component-ota/26/09/14/236233dde4fa46cfa2f405e597b08b97.zip?sign=0ef7344c7ca435616fc5f7584e8e7484&t=6acc84f6&AWSAccessKeyId=ayjy7KyLVHvDqDax6_KqJgtBeORTJARg9MSGiL66&Expires=1791790078&Signature=8euikPtwszE4LQl0Ehl2xinGpqY%3D
-
-
 #### RMX3706_16.0.3.503(CN01)
 GT NEO5 RMX3706 China Full OTA H.42
 
